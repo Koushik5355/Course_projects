@@ -1,0 +1,350 @@
+Influenza:
+  1. Fever
+  2. Cough
+  3. Sore throat
+  4. Body aches
+  5. Fatigue
+
+Diabetes Mellitus:
+  1. Frequent urination
+  2. Increased thirst
+  3. Weight loss
+  4. Fatigue
+  5. Blurred vision
+
+Hypertension:
+  1. Headache
+  2. Dizziness
+  3. Nosebleeds
+  4. Shortness of breath
+  5. Chest pain
+
+Asthma:
+  1. Wheezing
+  2. Coughing
+  3. Shortness of breath
+  4. Chest tightness
+  5. Fatigue
+
+Pneumonia:
+  1. Cough with phlegm
+  2. Fever
+  3. Chills
+  4. Shortness of breath
+  5. Chest pain
+
+Tuberculosis:
+  1. Persistent cough
+  2. Weight loss
+  3. Fever
+  4. Night sweats
+  5. Fatigue
+
+COVID-19:
+  1. Fever
+  2. Dry cough
+  3. Loss of taste
+  4. Shortness of breath
+  5. Fatigue
+
+Dengue:
+  1. High fever
+  2. Severe headache
+  3. Pain behind eyes
+  4. Joint pain
+  5. Skin rash
+
+Malaria:
+  1. Fever
+  2. Chills
+  3. Sweating
+  4. Headache
+  5. Nausea
+
+Typhoid:
+  1. Fever
+  2. Weakness
+  3. Stomach pain
+  4. Loss of appetite
+  5. Headache
+
+HIV/AIDS:
+  1. Weight loss
+  2. Fever
+  3. Night sweats
+  4. Fatigue
+  5. Recurrent infections
+
+Hepatitis B:
+  1. Fatigue
+  2. Loss of appetite
+  3. Nausea
+  4. Dark urine
+  5. Jaundice
+
+Hepatitis C:
+  1. Fatigue
+  2. Joint pain
+  3. Jaundice
+  4. Nausea
+  5. Dark urine
+
+Chickenpox:
+  1. Itchy rash
+  2. Fever
+  3. Tiredness
+  4. Loss of appetite
+  5. Headache
+
+Measles:
+  1. Fever
+  2. Cough
+  3. Runny nose
+  4. Skin rash
+  5. Red eyes
+
+Mumps:
+  1. Swollen glands
+  2. Fever
+  3. Headache
+  4. Muscle aches
+  5. Fatigue
+
+Rubella:
+  1. Mild fever
+  2. Rash
+  3. Joint pain
+  4. Swollen glands
+  5. Headache
+
+Polio:
+  1. Fever
+  2. Fatigue
+  3. Nausea
+  4. Headache
+  5. Paralysis
+
+Tetanus:
+  1. Jaw cramping
+  2. Muscle stiffness
+  3. Trouble swallowing
+  4. Seizures
+  5. Headache
+
+Rabies:
+  1. Fever
+  2. Fear of water
+  3. Confusion
+  4. Hyperactivity
+  5. Seizures
+
+Cholera:
+  1. Severe diarrhea
+  2. Dehydration
+  3. Vomiting
+  4. Rapid heartbeat
+  5. Dry mouth
+
+Leprosy:
+  1. Skin lesions
+  2. Numbness
+  3. Muscle weakness
+  4. Eye problems
+  5. Enlarged nerves
+
+Scabies:
+  1. Intense itching
+  2. Rash
+  3. Sores
+  4. Skin bumps
+  5. Blisters
+
+Ringworm:
+  1. Red rash
+  2. Itching
+  3. Scaly skin
+  4. Hair loss
+  5. Blisters
+
+Psoriasis:
+  1. Scaly patches
+  2. Dry skin
+  3. Itching
+  4. Burning
+  5. Cracked skin
+
+Eczema:
+  1. Dry skin
+  2. Itching
+  3. Red patches
+  4. Swelling
+  5. Crusting
+
+Bronchitis:
+  1. Cough
+  2. Mucus
+  3. Chest discomfort
+  4. Fatigue
+  5. Shortness of breath
+
+Sinusitis:
+  1. Facial pain
+  2. Nasal congestion
+  3. Headache
+  4. Runny nose
+  5. Sore throat
+
+Conjunctivitis:
+  1. Red eyes
+  2. Itching
+  3. Discharge
+  4. Tearing
+  5. Crusty lashes
+
+Otitis Media:
+  1. Ear pain
+  2. Fever
+  3. Hearing loss
+  4. Irritability
+  5. Fluid drainage
+
+Gastritis:
+  1. Stomach pain
+  2. Nausea
+  3. Vomiting
+  4. Bloating
+  5. Loss of appetite
+
+Ulcer:
+  1. Burning stomach pain
+  2. Bloating
+  3. Heartburn
+  4. Nausea
+  5. Weight loss
+
+Gallstones:
+  1. Abdominal pain
+  2. Nausea
+  3. Vomiting
+  4. Indigestion
+  5. Back pain
+
+Appendicitis:
+  1. Abdominal pain
+  2. Fever
+  3. Nausea
+  4. Vomiting
+  5. Loss of appetite
+
+Irritable Bowel Syndrome:
+  1. Abdominal pain
+  2. Bloating
+  3. Diarrhea
+  4. Constipation
+  5. Gas
+
+Celiac Disease:
+  1. Diarrhea
+  2. Fatigue
+  3. Weight loss
+  4. Bloating
+  5. Anemia
+
+Crohn's Disease:
+  1. Diarrhea
+  2. Abdominal pain
+  3. Fatigue
+  4. Weight loss
+  5. Fever
+
+Kidney Stones:
+  1. Severe back pain
+  2. Painful urination
+  3. Blood in urine
+  4. Nausea
+  5. Frequent urination
+
+UTI:
+  1. Burning urination
+  2. Frequent urination
+  3. Cloudy urine
+  4. Pelvic pain
+  5. Fever
+
+Prostate Enlargement:
+  1. Frequent urination
+  2. Weak urine stream
+  3. Nocturia
+  4. Urgency
+  5. Incomplete emptying
+
+Thyroid Disorder:
+  1. Fatigue
+  2. Weight gain/loss
+  3. Hair thinning
+  4. Mood swings
+  5. Cold/heat intolerance
+
+Anemia:
+  1. Fatigue
+  2. Pale skin
+  3. Shortness of breath
+  4. Dizziness
+  5. Cold hands/feet
+
+Migraine:
+  1. Throbbing headache
+  2. Nausea
+  3. Sensitivity to light
+  4. Blurred vision
+  5. Aura
+
+Stroke:
+  1. Sudden numbness
+  2. Confusion
+  3. Trouble speaking
+  4. Dizziness
+  5. Loss of balance
+
+Parkinson’s Disease:
+  1. Tremor
+  2. Slowed movement
+  3. Rigid muscles
+  4. Balance problems
+  5. Speech changes
+
+Alzheimer's Disease:
+  1. Memory loss
+  2. Confusion
+  3. Mood changes
+  4. Disorientation
+  5. Difficulty speaking
+
+Epilepsy:
+  1. Seizures
+  2. Confusion
+  3. Staring spells
+  4. Loss of consciousness
+  5. Jerking movements
+
+Depression:
+  1. Sadness
+  2. Loss of interest
+  3. Fatigue
+  4. Sleep issues
+  5. Feelings of worthlessness
+
+Schizophrenia:
+  1. Hallucinations
+  2. Delusions
+  3. Disorganized thinking
+  4. Flat affect
+  5. Social withdrawal
+
+Bipolar Disorder:
+  1. Mood swings
+  2. Irritability
+  3. Mania
+  4. Depression
+  5. Impulsivity
+
